@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Soren (@sumstot)
-- 👀 I’m interested in web development and eating ramen!
+- 👀 I’m interested in web development, snowboarding, and eating ramen!
 - 🌱 I’m currently learning Javascript, Ruby, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
